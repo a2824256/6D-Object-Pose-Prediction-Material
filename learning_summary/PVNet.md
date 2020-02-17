@@ -18,12 +18,17 @@
 ### 论文提出的新方法
 #### 一种新的关键点定位方法
 ![PVNet](./img/pvnet_network_structure.png)
-RGB图片 input->网络 output-> 语义分割后的物体切割色块图与指向物体关键点的向量场，通过Ransac voting在方向向量场得到物体关键点
-下图为向量场图片:
+<br>
+RGB图片 input->网络 output-> 语义分割后的物体切割色块图与指向物体关键点的向量场，通过Ransac voting在方向向量场得到物体关键点<br>
+下图为向量场图片:<br>
 ![unit_vectors](./img/unit_vectors.png)
+<br>
 右下角轮盘代表像素的指向方向，指向的方向就是关键点的方向，所有颜色的集合点就是关键点。
+<br>
 ![bounding_box](./img/pvnet_1.png)
+<br>
 ![key_point](./img/pvnet_2.png)
+<br>
 将传统bounding box 8个角关键点的方法替换使用farthest point sampling，生成物体表面的八个关键点，减少不确定性
 
 ### 数据集
