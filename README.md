@@ -21,7 +21,7 @@ code repository: https://github.com/j96w/DenseFusion#code-structure<br>
 2. singleshotpose(DL lib: Pytorch)
 3. DenseFusion(DL lib: Pytorch)
 
-#### 小组实验算法项目
+#### 小组算法实验项目
 1. singleshotpose - upgraded experimental version<br>
 code repository: https://github.com/a2824256/singleshotpose_imp
 
