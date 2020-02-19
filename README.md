@@ -12,7 +12,7 @@ paper: https://arxiv.org/abs/1711.08848<br>
 code repository: https://github.com/microsoft/singleshotpose
 
 3. DenseFusion: 6D Object Pose Estimation by Iterative Dense Fusion<br>
-paper: https://arxiv.org/abs/1901.04780
+paper: https://arxiv.org/abs/1901.04780<br>
 code repository: https://github.com/j96w/DenseFusion#code-structure<br>
 
 
