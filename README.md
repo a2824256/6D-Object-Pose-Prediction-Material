@@ -12,8 +12,9 @@ paper: https://arxiv.org/abs/1711.08848<br>
 code repository: https://github.com/microsoft/singleshotpose
 
 3. DenseFusion: 6D Object Pose Estimation by Iterative Dense Fusion<br>
-code: https://github.com/j96w/DenseFusion#code-structure<br>
 paper: https://arxiv.org/abs/1901.04780
+code repository: https://github.com/j96w/DenseFusion#code-structure<br>
+
 
 #### 目前选择方案
 1. PVNet(DL lib: Pytorch)
