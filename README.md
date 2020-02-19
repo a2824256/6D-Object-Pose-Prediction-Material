@@ -25,6 +25,6 @@ code repository: https://github.com/j96w/DenseFusion#code-structure<br>
 1. singleshotpose - upgraded experimental version<br>
 code repository: https://github.com/a2824256/singleshotpose_imp
 
-#### 【6D位姿估计】开源项目
+#### 知乎分享:【6D位姿估计】开源项目合集
 https://zhuanlan.zhihu.com/p/94020758
 
