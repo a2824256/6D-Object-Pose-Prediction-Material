@@ -1,6 +1,6 @@
 ### 6D Object Pose Prediction Materials Repository
 #### 6D是指代什么？
-Pose, Rotaion+Translation, 6个自由度
+Pose - Rotaion - Translation, 6个自由度
 
 #### 相关论文
 1. PVNet: Pixel-wise Voting Network for 6DoF Pose Estimation<br>
