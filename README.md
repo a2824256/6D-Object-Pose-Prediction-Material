@@ -21,6 +21,10 @@ code repository: https://github.com/j96w/DenseFusion#code-structure<br>
 2. singleshotpose(DL lib: Pytorch)
 3. DenseFusion(DL lib: Pytorch)
 
+#### 小组实验算法项目
+1. singleshotpose - upgraded experimental version<br>
+code repository: https://github.com/a2824256/singleshotpose_imp
+
 #### 【6D位姿估计】开源项目
 https://zhuanlan.zhihu.com/p/94020758
 
